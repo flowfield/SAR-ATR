@@ -1,0 +1,5 @@
+model_checkpoint_path: "/content/drive/MyDrive/Gwak_tf_ATR/tmp/AconvNetEOC_220322_fin2.ckpt"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Gwak_tf_ATR/tmp/AconvNetEOC_220322_1.ckpt"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Gwak_tf_ATR/logs/AconvNetEOC_220322_fin1"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Gwak_tf_ATR/tmp/AconvNetEOC_220322_2.ckpt"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Gwak_tf_ATR/tmp/AconvNetEOC_220322_fin2.ckpt"
